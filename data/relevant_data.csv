@@ -1,0 +1,31 @@
+﻿user_id;name;age;gender;monthly_income;financial_goal;risk_tolerance;investment_term;investment_amount;preferred_investment_type;investment_experience;telefone;email
+1;João Silva;30;Masculino;5000;Aposentadoria;4;Longo Prazo;10000;Ações;Intermediário;(11) 1234-5678;joao@email.com
+2;Maria Santos;35;Feminino;6000;Comprar uma Casa;3;Médio Prazo;20000;Fundos Imobiliários;Iniciante;(21) 9876-5432;maria@email.com
+3;Pedro Souza;25;Masculino;4000;Viagem;2;Curto Prazo;5000;Títulos;Avançado;(31) 8765-4321;pedro@email.com
+4;Ana Oliveira;40;Feminino;7000;Aposentadoria;5;Longo Prazo;15000;Ações;Intermediário;(41) 7654-3210;ana@email.com
+5;André Santos;28;Masculino;4500;Comprar uma Casa;3;Médio Prazo;18000;Fundos Imobiliários;Intermediário;(11) 2345-6789;andre@email.com
+6;Carolina Lima;32;Feminino;5500;Aposentadoria;4;Longo Prazo;25000;Ações;Avançado;(21) 8765-4321;carolina@email.com
+7;Lucas Fernandes;35;Masculino;6000;Viagem;2;Curto Prazo;7500;Títulos;Iniciante;(31) 7654-3210;lucas@email.com
+8;Mariana Pereira;29;Feminino;4800;Educação dos Filhos;3;Médio Prazo;12000;Títulos;Intermediário;(41) 6543-2109;mariana@email.com
+9;Gustavo Silva;45;Masculino;8000;Aposentadoria;5;Longo Prazo;35000;Ações;Avançado;(51) 5432-1098;gustavo@email.com
+10;Juliana Almeida;38;Feminino;7000;Comprar um Carro;3;Médio Prazo;15000;Fundos Imobiliários;Iniciante;(61) 4321-0987;juliana@email.com
+11;Andréa Costa;50;Feminino;9000;Viagem;2;Curto Prazo;6000;Títulos;Iniciante;(71) 3210-9876;andrea@email.com
+12;Marcos Oliveira;42;Masculino;7500;Aposentadoria;4;Longo Prazo;28000;Ações;Avançado;(81) 2109-8765;marcos@email.com
+13;Beatriz Ferreira;27;Feminino;4800;Comprar uma Casa;3;Médio Prazo;17000;Fundos Imobiliários;Intermediário;(91) 0987-6543;beatriz@email.com
+14;Carlos Rodrigues;34;Masculino;6000;Aposentadoria;4;Longo Prazo;22000;Ações;Avançado;(101) 8765-4321;carlos@email.com
+15;Laura Sousa;31;Feminino;5200;Viagem;2;Curto Prazo;8000;Títulos;Iniciante;(111) 7654-3210;laura@email.com
+16;Pedro Fernandes;55;Masculino;9000;Aposentadoria;5;Longo Prazo;40000;Ações;Avançado;(121) 6543-2109;pedrof@email.com
+17;Isabela Lima;29;Feminino;4800;Comprar um Carro;3;Médio Prazo;15000;Fundos Imobiliários;Iniciante;(131) 4321-0987;isabela@email.com
+18;Eduardo Almeida;48;Masculino;8500;Viagem;2;Curto Prazo;6500;Títulos;Iniciante;(141) 2109-8765;eduardoa@email.com
+19;Gabriela Costa;40;Feminino;7200;Aposentadoria;4;Longo Prazo;30000;Ações;Avançado;(151) 0987-6543;gabriela@email.com
+20;João Rodrigues;33;Masculino;5800;Comprar uma Casa;3;Médio Prazo;20000;Fundos Imobiliários;Intermediário;(161) 8765-4321;joaor@email.com
+21;Ana Souza;26;Feminino;4600;Educação dos Filhos;2;Curto Prazo;9500;Títulos;Iniciante;(171) 7654-3210;ana@email.com
+22;Luiz Fernandes;47;Masculino;7800;Aposentadoria;5;Longo Prazo;37000;Ações;Avançado;(181) 4321-0987;luizf@email.com
+23;Fernanda Oliveira;30;Feminino;5500;Viagem;2;Curto Prazo;7200;Títulos;Iniciante;(191) 2109-8765;fernanda@email.com
+24;Ronaldo Lima;52;Masculino;8800;Aposentadoria;4;Longo Prazo;32000;Ações;Avançado;(201) 0987-6543;ronaldo@email.com
+25;Camila Santos;28;Feminino;4900;Comprar uma Casa;3;Médio Prazo;16000;Fundos Imobiliários;Intermediário;(211) 8765-4321;camila@email.com
+26;Leonardo Costa;36;Masculino;6200;Viagem;2;Curto Prazo;8500;Títulos;Iniciante;(221) 7654-3210;leonardo@email.com
+27;Letícia Rodrigues;31;Feminino;5300;Aposentadoria;4;Longo Prazo;27000;Ações;Avançado;(231) 4321-0987;leticia@email.com
+28;Rafaela Almeida;39;Feminino;7300;Comprar um Carro;3;Médio Prazo;18000;Fundos Imobiliários;Intermediário;(241) 2109-8765;rafaela@email.com
+29;Marcos Lima;44;Masculino;7600;Viagem;2;Curto Prazo;7000;Títulos;Iniciante;(251) 0987-6543;marcosl@email.com
+30;Juliano Fernandes;37;Masculino;6400;Aposentadoria;4;Longo Prazo;29000;Ações;Avançado;(261) 8765-4321;julianof@email.com

@@ -1,0 +1,34 @@
+{
+    "investment_news": {
+    "Ações Intermediário Longo Prazo": [
+      {
+        "titulo": "Notícia sobre Ações",
+        "conteudo": "As ações estão em alta no mercado. Saiba como aproveitar essa oportunidade para aumentar seu patrimônio."
+      },
+      {
+        "titulo": "Estratégias de Investimento em Ações",
+        "conteudo": "Conheça as estratégias mais eficazes para investir em ações a longo prazo e maximizar seus ganhos."
+      }
+    ],
+    "Fundos Imobiliários_Iniciante_Médio Prazo": [
+      {
+        "titulo": "Notícia sobre Fundos Imobiliários",
+        "conteudo": "Os fundos imobiliários são uma ótima opção para quem busca renda passiva. Descubra as vantagens desse investimento."
+      },
+      {
+        "titulo": "Como Montar uma Carteira de Fundos Imobiliários",
+        "conteudo": "Aprenda a construir uma carteira diversificada de fundos imobiliários que se alinhe com seu objetivo de {Objetivo Financeiro} no prazo médio."
+      }
+    ],
+    "Títulos_Avançado_Curto_Prazo": [
+      {
+        "titulo": "Notícia sobre Títulos de Renda Fixa",
+        "conteudo": "Os títulos de renda fixa são ideais para investidores avançados. Conheça as melhores opções disponíveis no mercado."
+      },
+      {
+        "titulo": "Estratégias de Curto Prazo em Títulos",
+        "conteudo": "Descubra as estratégias avançadas para otimizar seus investimentos de curto prazo em títulos e alcançar seus objetivos financeiros rapidamente."
+      }
+    ]
+  }
+}
