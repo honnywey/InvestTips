@@ -55,7 +55,7 @@ Usage
 
 1. Ensure the following files exist in the `data` directory:
 
-   - `user_data.json`: User profiles in JSON format (e.g., name, age, income, investment goals).
+   - `user_database.json`: User profiles in JSON format (e.g., name, age, income, investment goals).
    - `investment_news.json`: Investment news articles in JSON format (customize for specific recommendations).
    - `relevant_data.csv`: Relevant data for analysis (e.g., user IDs, investment types, experience).
 
@@ -63,9 +63,9 @@ Usage
 
     python main.py
 
-3. The script will generate investment recommendations for users based on their profiles and update the `user_data.json` file.
+3. The script will generate investment recommendations for users based on their profiles and update the `user_database.json` file.
 
-4. You can check the updated profiles and recommendations in the `user_data.json` file.
+4. You can check the updated profiles and recommendations in the `user_database.json` file.
 
 ----
 
@@ -77,7 +77,7 @@ You can customize news articles by editing the `investment_news.json` file in th
 
 ### User Profiles
 
-User profiles are stored in the `user_data.json` file. Customize or add new user profiles to test different scenarios.
+User profiles are stored in the `user_database.json` file. Customize or add new user profiles to test different scenarios.
 
 ### Integration
 

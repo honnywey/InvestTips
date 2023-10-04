@@ -3,7 +3,7 @@ import os
 
 current_directory = os.path.dirname(os.path.abspath(__file__))
 
-json_file_path = os.path.join(current_directory, '../data/user_data.json')
+json_file_path = os.path.join(current_directory, '../data/user_database.json')
 
 if os.path.exists(json_file_path):
     with open(json_file_path, 'r', encoding='utf-8') as json_file:
